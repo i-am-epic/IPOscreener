@@ -1,0 +1,311 @@
+{
+    "ipoDetails": {
+      "financialHealth": {
+        "revenueGrowth": {
+          "data": 21.18,
+          "weight": 5,
+          "score": 85
+        },
+        "profitMargin": {
+          "data": null,
+          "weight": 5,
+          "score": 50
+        },
+        "debtToEquityRatio": {
+          "data": null,
+          "weight": 5,
+          "score": 50
+        }
+      },
+      "marketAndIndustryAnalysis": {
+        "marketPosition": {
+          "data": null,
+          "weight": 5,
+          "score": 50
+        },
+        "industryGrowthProspects": {
+          "data": null,
+          "weight": 5,
+          "score": 50
+        }
+      },
+      "companyInformationAndGovernance": {
+        "promoterHolding": {
+          "data": 75,
+          "weight": 5,
+          "score": 75
+        },
+        "corporateGovernance": {
+          "data": null,
+          "weight": 5,
+          "score": 50
+        }
+      },
+      "ipoSpecifics": {
+        "ipoSize": {
+          "data": 2150.21,
+          "weight": 5,
+          "score": 80
+        },
+        "freshIssueVsOfferForSale": {
+          "data": null,
+          "weight": 5,
+          "score": 50
+        }
+      },
+      "subscriptionMetrics": {
+        "subscriptionRate": {
+          "data": 4.59,
+          "weight": 5,
+          "score": 75
+        },
+        "retailInvestorInterest": {
+          "data": null,
+          "weight": 5,
+          "score": 50
+        }
+      },
+      "managementAndLeadership": {
+        "managementTrackRecord": {
+          "data": null,
+          "weight": 4,
+          "score": 50
+        },
+        "keyExecutiveExperience": {
+          "data": null,
+          "weight": 4,
+          "score": 50
+        }
+      },
+      "valuationMetrics": {
+        "priceToEarningsRatio": {
+          "data": 8.47,
+          "weight": 4,
+          "score": 80
+        },
+        "marketCapitalization": {
+          "data": 8600.85,
+          "weight": 4,
+          "score": 80
+        }
+      },
+      "financialRatios": {
+        "returnOnEquity": {
+          "data": null,
+          "weight": 3.5,
+          "score": 50
+        },
+        "earningsPerShare": {
+          "data": null,
+          "weight": 3.5,
+          "score": 50
+        }
+      },
+      "operationalEfficiency": {
+        "inventoryTurnover": {
+          "data": null,
+          "weight": 3.5,
+          "score": 50
+        },
+        "assetTurnover": {
+          "data": null,
+          "weight": 3.5,
+          "score": 50
+        }
+      },
+      "cashFlowManagement": {
+        "operatingCashFlow": {
+          "data": null,
+          "weight": 2.5,
+          "score": 50
+        },
+        "freeCashFlow": {
+          "data": null,
+          "weight": 2.5,
+          "score": 50
+        }
+      },
+      "regulatoryCompliance": {
+        "legalHistory": {
+          "data": null,
+          "weight": 2.5,
+          "score": 50
+        },
+        "regulatoryViolations": {
+          "data": null,
+          "weight": 2.5,
+          "score": 50
+        }
+      },
+      "riskAnalysis": {
+        "volatilityAnalysis": {
+          "data": null,
+          "weight": 2.5,
+          "score": 50
+        },
+        "externalRisks": {
+          "data": null,
+          "weight": 2.5,
+          "score": 50
+        }
+      },
+      "marketConditions": {
+        "economicClimate": {
+          "data": null,
+          "weight": 2,
+          "score": 50
+        },
+        "investorSentiment": {
+          "data": null,
+          "weight": 2,
+          "score": 50
+        }
+      },
+      "underwritingAndAdvisory": {
+        "reputationOfUnderwriters": {
+          "data": null,
+          "weight": 2,
+          "score": 50
+        },
+        "underwriterTrackRecord": {
+          "data": null,
+          "weight": 2,
+          "score": 50
+        }
+      },
+      "postIpoLiquidity": {
+        "tradingVolume": {
+          "data": null,
+          "weight": 2,
+          "score": 50
+        },
+        "priceVolatility": {
+          "data": null,
+          "weight": 2,
+          "score": 50
+        }
+      },
+      "lockUpPeriod": {
+        "insiderSelling": {
+          "data": null,
+          "weight": 1.5,
+          "score": 50
+        },
+        "lockUpExpiry": {
+          "data": null,
+          "weight": 1.5,
+          "score": 50
+        }
+      },
+      "ipoGrading": {
+        "ratingAgenciesAssessment": {
+          "data": null,
+          "weight": 1.5,
+          "score": 50
+        },
+        "consensusAnalystRatings": {
+          "data": null,
+          "weight": 1.5,
+          "score": 50
+        }
+      },
+      "communicationAndTransparency": {
+        "investorRelations": {
+          "data": null,
+          "weight": 1.5,
+          "score": 50
+        },
+        "transparencyInDisclosures": {
+          "data": null,
+          "weight": 1.5,
+          "score": 50
+        }
+      },
+      "postIpoPerformance": {
+        "historicalIpoPerformance": {
+          "data": null,
+          "weight": 1.5,
+          "score": 50
+        },
+        "postIpoStockPerformance": {
+          "data": null,
+          "weight": 1.5,
+          "score": 50
+        }
+      },
+      "peerComparison": {
+        "industryPeersPerformance": {
+          "data": null,
+          "weight": 1,
+          "score": 50
+        },
+        "marketShareComparison": {
+          "data": null,
+          "weight": 1,
+          "score": 50
+        }
+      },
+      "institutionalInvestors": {
+        "institutionalOwnership": {
+          "data": null,
+          "weight": 1,
+          "score": 50
+        },
+        "anchorInvestorParticipation": {
+          "data": null,
+          "weight": 1,
+          "score": 50
+        }
+      },
+      "lockInPeriods": {
+        "promoterLockIn": {
+          "data": null,
+          "weight": 1,
+          "score": 50
+        },
+        "employeeLockIn": {
+          "data": null,
+          "weight": 1,
+          "score": 50
+        }
+      },
+      "objectivesOfTheIssue": {
+        "clarityInFundUtilization": {
+          "data": null,
+          "weight": 1,
+          "score": 50
+        },
+        "alignmentWithBusinessGoals": {
+          "data": null,
+          "weight": 1,
+          "score": 50
+        }
+      },
+      "investorEducationAndAwareness": {
+        "roadshowEffectiveness": {
+          "data": null,
+          "weight": 0.5,
+          "score": 50
+        },
+        "publicAwarenessInitiatives": {
+          "data": null,
+          "weight": 0.5,
+          "score": 50
+        }
+      },
+      "postIpoSupport": {
+        "investorServices": {
+          "data": null,
+          "weight": 0.5,
+          "score": 50
+        },
+        "postIpoCommunications": {
+          "data": null,
+          "weight": 0.5,
+          "score": 50
+        }
+      }
+    },
+    "finalScore": 68.71
+  }
+  
